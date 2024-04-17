@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá mundo! Eu sou o Thales!
 
-<!--
-**thales-sblue/thales-sblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Hoje trabalho como Desenvolvedor Full Stack...
+- 📚 Estudando desenvolvimento web no geral para aprimorar as minhas skills!
+- ⚡ Sem café, sem code . !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=thales-sblue&show_icons=true&theme=dark)](https://github.com/thales-sblue/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thales-html" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Thales-css" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Thales-react" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Thales-php" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Thales-insomnia" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+  <img align="center" alt="Thales-oracle" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+</div>
+
+
