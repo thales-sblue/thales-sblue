@@ -1,7 +1,7 @@
 ### Olá mundo! Eu sou o Thales!
 
 - 💻 Hoje trabalho como Desenvolvedor Full Stack...
-- 📚 Estudando principalmente Node.js para aprimorar as minhas skills!
+- 📚 Estudando principalmente Java para aprimorar as minhas skills!
 - ⚡ Sem café, sem code . !
 
 
