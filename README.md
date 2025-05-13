@@ -1,4 +1,4 @@
-### Olá mundo! Eu sou o Thales!
+### Oi, eu sou o Thales!
 
 - 💻 Hoje trabalho como Desenvolvedor Full Stack...
 - 📚 Estudando principalmente Java para aprimorar as minhas skills!
