@@ -2,14 +2,14 @@
 
 Desenvolvedor Full Stack com foco em **Back End PHP**, atuando na CooperTec com desenvolvimento e manutenção de aplicações web, integrações e rotinas para sistemas em contexto financeiro.
 
-Tenho experiência com **PHP, Oracle, PL/SQL, Docker, Git, testes e pipelines CI/CD**, além de projetos com React e TypeScript para apoiar entregas completas de ponta a ponta.
+Tenho experiência com **PHP, Oracle, PL/SQL, Docker, Git, testes e pipelines CI/CD**, além de projetos com React, Vue e TypeScript para entregas completas.
 
 * PHP 8+
 * Oracle e PL/SQL
 * Docker e Git
 * Integrações e APIs
 * Testes, qualidade e manutenção de código
-* React, Vite e TypeScript quando o projeto exige front-end
+* React, Vite, Vue, e TypeScript quando o projeto exige front-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thales-PHP" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -24,7 +24,7 @@ Tenho experiência com **PHP, Oracle, PL/SQL, Docker, Git, testes e pipelines CI
 
 ### Portfólio
 
-Meu portfólio reúne projetos e melhorias técnicas com foco em Back End, integrações, qualidade de código, deploy automatizado e boas práticas de segurança.
+Meu portfólio reúne projetos, integrações, qualidade de código, deploy automatizado e boas práticas de segurança.
 
 https://thales-sblue.github.io/
 
@@ -37,4 +37,4 @@ https://www.linkedin.com/in/thales-dev-santos
 
 ---
 
-Sem café, sem código.
+Sem café, sem code .
