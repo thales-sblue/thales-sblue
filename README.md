@@ -8,7 +8,7 @@ Tenho experiência com **PHP, Oracle, PL/SQL, Docker, Git, testes e pipelines CI
 * Oracle e PL/SQL
 * Docker, RabbitMQ e Git
 * Integrações e APIs
-* PHPUnit, PHPStan, PHPCS, SonarQube
+* PHPUnit, PHPStan, PHPCS, SonarQube e OWASP ZAP
 * React, Vite, Vue, e TypeScript quando o projeto exige front-end
 
 <div style="display: inline_block"><br>
