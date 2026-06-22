@@ -40,3 +40,8 @@ https://www.linkedin.com/in/thales-dev-santos
 ---
 
 Sem café, sem code.
+---
+
+### Atividade no GitHub
+
+[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=thales-sblue\&theme=github-dark\&hide_border=true\&area=true\&custom_title=Atividade%20no%20GitHub)](https://github.com/thales-sblue)
